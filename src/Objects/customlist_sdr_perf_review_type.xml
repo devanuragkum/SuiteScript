@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_sdr_perf_review_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Review Type</name>
+  <customvalues>
+    <customvalue scriptid="value_1_t1517276_853">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Salary Change</value>
+    </customvalue>
+    <customvalue scriptid="value_2_t1517276_853">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>No Salary Change</value>
+    </customvalue>
+    <customvalue scriptid="value_3_t1517276_853">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Grade Change</value>
+    </customvalue>
+    <customvalue scriptid="value_4_t1517276_853">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Project Change</value>
+    </customvalue>
+     <customvalue scriptid="value_5_t1517276_853">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>No Rating</value>
+    </customvalue>
+  </customvalues>
+</customlist>
